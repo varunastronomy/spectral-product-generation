@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Observational data and generated mission products
+*.evt
+*.mkf
+*.fits
+*.pha
+*.arf
+*.rmf
+*.lc
+*.xcm
+*.log
+spectra/
+
+# Repository artwork remains version controlled
+!assets/*.png
+!assets/*.gif

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Written permission is required before reuse; approved use must cite this software."
+title: "Spectral Product Generation"
+type: software
+authors:
+  - family-names: "Varun"
+    given-names: "M."
+    affiliation: "CHRIST (Deemed to be University), Bengaluru, India"
+repository-code: "https://github.com/varunastronomy/spectral-product-generation"
+abstract: "A concurrent and GTI-aware Python workflow for organizing X-ray spectral products generated with external mission-analysis software."
+keywords:
+  - X-ray astronomy
+  - spectral analysis
+  - pipeline automation
+  - GTI
+  - scientific Python
+version: 1.0.0
+date-released: 2026-09-27
